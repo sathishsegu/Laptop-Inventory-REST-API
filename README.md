@@ -99,6 +99,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
+For any inquiries or support, please reach out through the following channels
+Sathish Kumar Segu - [@segusathish](https://x.com/segusathish) 
+sathishsegu123@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sathishkumarsegu/)
 
 Project Link: [https://github.com/your-username/Laptop-Inventory-REST-API](https://github.com/sathishsegu/Laptop-Inventory-REST-API)
