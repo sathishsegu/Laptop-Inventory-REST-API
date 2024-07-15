@@ -101,4 +101,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
 
-Project Link: [https://github.com/your-username/tunetastic](https://github.com/sathishsegu/Laptop-Inventory-REST-API)
+Project Link: [https://github.com/your-username/Laptop-Inventory-REST-API](https://github.com/sathishsegu/Laptop-Inventory-REST-API)
